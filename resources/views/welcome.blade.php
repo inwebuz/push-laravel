@@ -10,6 +10,7 @@
 
     <body>
         <h1>Push notifications</h1>
+        <div id="messages"></div>
 
         <script src="{{ mix('js/app.js') }}"></script>
     </body>
